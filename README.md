@@ -1,5 +1,5 @@
 Hi, I'm Janhavi Rase 👋
-Final-year B.Tech (Information Technology) student at Walchand Institute of Technology, Solapur — building real-world DevOps projects and preparing for a Cloud/DevOps role in 2026.
+B.Tech (Information Technology) graduate from Walchand Institute of Technology, Solapur — building real-world DevOps projects and preparing for a Cloud/DevOps role in 2026.
 
 About Me
 🎓 B.Tech in Information Technology — CGPA: 9.32
@@ -33,6 +33,15 @@ MongoDB · Express.js · React.js · Node.js
 
 Featured Projects
 
+🏦 BankingWebApp — CI/CD Pipeline with Docker & Kubernetes
+End-to-end CI/CD pipeline for a Java-based banking application.
+- Built Jenkins pipeline that triggers automated builds on every GitHub commit
+- Automated Maven builds to compile, test, and package the app as a deployable JAR
+- Containerized the application using a multi-stage Dockerfile and pushed versioned images to a container registry
+- Deployed on Kubernetes using Deployment and Service YAML manifests with NodePort external access
+
+Stack: Jenkins · Maven · Docker · Kubernetes · GitHub · Java
+
 🔐 Secure File Sharing System on AWS — VPC, IAM & Monitoring
 Secure, monitored file-sharing infrastructure built on custom AWS networking and least-privilege access design.
 - Designed a custom AWS VPC with public/private subnets across multiple Availability Zones, using a NAT Gateway and bastion-host access pattern
@@ -42,14 +51,7 @@ Secure, monitored file-sharing infrastructure built on custom AWS networking and
 
 Stack: AWS · VPC · IAM · S3 · EC2 · CloudWatch · SNS
 
-🏦 BankingWebApp — CI/CD Pipeline with Docker & Kubernetes
-End-to-end CI/CD pipeline for a Java-based banking application.
-- Built Jenkins pipeline that triggers automated builds on every GitHub commit
-- Automated Maven builds to compile, test, and package the app as a deployable JAR
-- Containerized the application using a multi-stage Dockerfile and pushed versioned images to a container registry
-- Deployed on Kubernetes using Deployment and Service YAML manifests with NodePort external access
 
-Stack: Jenkins · Maven · Docker · Kubernetes · GitHub · Java
 
 Certifications
 Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | 2026
